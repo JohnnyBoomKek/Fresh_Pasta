@@ -1,2 +1,9 @@
 #environment
 .env
+venv
+
+#db
+pasta_bot.db
+
+#cache
+__pycache__
